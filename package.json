@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/pial0007l/forkify-/issues"
   },
-  "homepage": "https://github.com/pial0007l/forkify-#readme"
+  "homepage": "https://github.com/pial0007l/forkify-#readme",
+  "devDependencies": {
+    "webpack": "^4.44.1"
+  },
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
 }
